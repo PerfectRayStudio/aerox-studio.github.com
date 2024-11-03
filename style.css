@@ -328,10 +328,10 @@ a *{
 }
 @media (max-width: 391px){
     #HeaderBlueTitle{
-        font-size: 80px;
+        font-size: 75px;
     }
     #HeaderWhiteTitle{
-        font-size: 80px;
+        font-size: 75px;
     }
     .btn-gradient{
         background: var(--aerox--gradient-color);
@@ -357,10 +357,10 @@ a *{
 }
 @media (max-width: 344px){
     #HeaderBlueTitle{
-        font-size: 70px;
+        font-size: 65px;
     }
     #HeaderWhiteTitle{
-        font-size: 70px;
+        font-size: 65px;
     }
     #ProjectAvatar{
         width: 70px;
